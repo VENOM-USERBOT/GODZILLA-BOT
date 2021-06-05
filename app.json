@@ -1,13 +1,13 @@
 {
-  "name": "Catuserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
+  "name": "GODZILLAbot",
+  "description": "A simple Telegram userbot based on Telethon . Maintained by DEVANSH ",
   "logo": "https://telegra.ph/Attitude-king-06-05-2",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/GODZILLA-BOT/GODZILLAbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
