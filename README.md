@@ -8,6 +8,6 @@ Main source is here [main source](https://github.com/GODZILLA-BOT/GODZILLAbot) f
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMr-confused%2Fcatpack&template=https%3A%2F%2Fgithub.com%2FMr-confused%2Fcatpack)
 
 ## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+   - [@GODZILLAX2](https://t.me/@GODZILLAX2)
+   - [@MONSTERX2](https://t.me/@MONSTERX2)
 Z
