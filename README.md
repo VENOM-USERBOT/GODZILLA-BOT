@@ -11,3 +11,5 @@ Main source is here [main source](https://github.com/GODZILLA-BOT/GODZILLAbot) f
    - [@GODZILLAX2](https://t.me/@GODZILLAX2)
    - [@MONSTERX2](https://t.me/@MONSTERX2)
 
+[![Monster χ вσт ℓσgσ](https://telegra.ph/file/7ebbb615aa58935b2227b.jpg)
+
