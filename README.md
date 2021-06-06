@@ -7,7 +7,7 @@ Main source is here [main source](https://github.com/GODZILLA-BOT/GODZILLAbot) f
 ![ GODZILLA вσт ℓσgσ](https://telegra.ph/file/7ebbb615aa58935b2227b.jpg) 
 
 ## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMr-confused%2Fcatpack&template=https%3A%2F%2Fgithub.com%2FMr-confused%2Fcatpack)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FGODZILLA-BOT%2FGODZILLA-BOT&template=https%3A%2F%2Fgithub.com%2FGODZILLA-BOT%2FGODZILLA-BOT)
 
 ## credits
    - [@GODZILLAX2](https://t.me/@GODZILLAX2)
